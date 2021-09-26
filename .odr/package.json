@@ -1,0 +1,48 @@
+{
+    "name":"test package",
+    "version":"0.0.1",
+    "description" : "",
+    "repository" : {
+        "type" : "git",
+        "url"  : ""
+    },
+    "keywords" : [],
+    "license"  : "",
+    "homepage" : "url",
+    "bugreport" : "url",
+    "dependencies": {
+        "live": [],
+        "dev" : []
+    },
+    "author": {
+        "details" : {
+            "name"     : "optional_name",
+            "nick"     : "required_nick", 
+            "avatar"   : "optional_url",
+            "gender"   : "optional_gender",
+            "BOY"      : "optional_birth_of_year",
+            "height"   : "optional_just_for_fun",
+            "weight"   : "optional_just_for_fun"
+        },
+        "contact": {
+            "email" :{
+                "optianal_emails":"description",
+                "email2": "description"
+            },
+            "website" :{
+                "optional_url":"optional_description"
+            },
+            "facebook"  : "optional_facebook id or url",
+            "github"    : "optional_github_id or url",
+            "instagram" : "oprional_instagram",
+            "twitter"   : "optional_twitter",
+            "batgle"    : "optional_batgle_id",
+            "matrix"    : "optional_matrix_id",
+            "twitch"    : "optional_twitch_id"
+        }
+    },
+    "signatures" : {
+        "sha512" : "",
+        "sha3"   : ""
+    }
+}
